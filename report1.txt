@@ -1,0 +1,7 @@
+Summary:Не охлаждаются продукты
+Project: Холодильник
+Component: Холодильная камера
+Version: Атлант МХ-40
+Severity:Blocker
+Priority:High
+
